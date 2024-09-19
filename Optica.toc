@@ -1,0 +1,39 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Cámara Obscura}{3}{section.1}%
+\contentsline {section}{\numberline {2}Frecuencias Electromagnéticas}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Reflexión}{7}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Reflexión Total Interna}{8}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Imagenes Virtuales en la Reflexión}{9}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Refracción}{10}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Polarización}{11}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Lentes}{13}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Longitud Focal}{16}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Crop Factor}{18}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Imagenes Virtuales en la Refracción}{20}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Enfoque}{21}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Lentes Varifocales y Parafocales}{22}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Enfoque en el ojo humano}{24}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Aberraciones}{24}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Esférica}{25}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Coma}{26}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Astigmatismo}{28}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}Curvatura del Campo}{29}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}Distorsión de Imagen}{30}{subsubsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.3.6}Axial o Longitudinal}{32}{subsubsection.3.3.6}%
+\contentsline {subsubsection}{\numberline {3.3.7}Lateral o Transversa}{33}{subsubsection.3.3.7}%
+\contentsline {subsection}{\numberline {3.4}Otras Imperfecciones}{34}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Viñeteado}{34}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Destello de Lente}{36}{subsubsection.3.4.2}%
+\contentsline {section}{\numberline {4}Exposición}{38}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Velocidad de Obturación}{39}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Apertura del Diafragma}{43}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Número-f}{43}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Profundidad de campo}{44}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}ISO}{47}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Cámaras Digitales}{49}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Sensor}{51}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Tamaños de Sensores}{53}{subsubsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.2}Balance de Blancos}{54}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Cámaras Análogas}{55}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Rollo Fotográfico}{57}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Halation}{58}{subsubsection.6.1.1}%
